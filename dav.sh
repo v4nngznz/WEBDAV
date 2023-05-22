@@ -15,7 +15,7 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 
 clear
-cd C:\heker
+cd downloads
 figlet -f pagga WEBDAV DEFACE | lolcat
       
       echo""
